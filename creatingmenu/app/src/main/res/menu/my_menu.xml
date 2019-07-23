@@ -3,4 +3,5 @@
     <item android:id="@+id/menu1" android:title="Pizza" />
     <item android:id="@+id/menu2" android:title="Buger" />
     <item android:id="@+id/menu3" android:title="Salad" />
+    <item android:id="@+id/menu4" android:title="Chicken" />
 </menu>
